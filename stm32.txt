@@ -3,5 +3,6 @@
 Debug/
 Drivers/
 Middlewares/
+USB_Device/
 USB_DEVICE/
 
