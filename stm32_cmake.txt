@@ -1,0 +1,6 @@
+### STM32 CMake ###
+RelWithDebInfo/
+MinSizeRel/
+Debug/
+Release/
+
