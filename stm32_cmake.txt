@@ -3,4 +3,8 @@ RelWithDebInfo/
 MinSizeRel/
 Debug/
 Release/
+USB_DEVICE/
+USB_Device/
+.ninja_deps
+.ninja_log
 
